@@ -1,7 +1,6 @@
 # teste_wap
 
-A new Flutter project.
-
+Teste para desenvolvedor júnior na empresa Mundo WAP.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
